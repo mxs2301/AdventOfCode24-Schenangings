@@ -6,3 +6,5 @@ The solutions here are written and tried in amateur rust
 ## Days solved
 
 - [x] Day 1
+- [x] Day 2 - Second part, was with help and not completly my own brains.
+- [x] Day 3
